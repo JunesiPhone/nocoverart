@@ -1,0 +1,5 @@
+LatestBuild/
+.theos
+*.dylib
+Makefile
+control
